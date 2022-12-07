@@ -1,4 +1,4 @@
-# NLP_Multilabel_Sentiment_Analysis
+# NLP_Multilabel_Analysis
 
 ## Steps to Run
 1. Set up your Google Colab Environment with the datasets from this repository
