@@ -6,7 +6,7 @@
 3. Run the code
 
 ## Summary
-Classification research papers with NLP using state of the art pretrained models (huggingface)
+Classification research papers topics with NLP using state of the art pretrained models (huggingface)
 and building a neural network layer on top of it to customize the pretrained model to our classification problem using Pytroch.
 
 ## Hackaton
